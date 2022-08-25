@@ -1,8 +1,8 @@
 ### Hola, mi nombre es Julian Jaramillo 👋
 
-### Mobile Dev (Flutter) || Frontend Dev (Vue.js)
+### Mobile & Frontend
 
-Soy ingeniero electrónico, especialista en Gerencia y negocios digitales. Actualmente me encuentro trabajando en desarrollo de software en una consultora multinacional que me ha permitido desarrollar mi perfil profesional en esta área de mobile con flutter y en frontend con Vue.js.
+Soy ingeniero electrónico, especialista en Gerencia y negocios digitales. Actualmente me encuentro trabajando en desarrollo de software en una consultora multinacional que me ha permitido desarrollar mi perfil profesional en estas áreas, mobile con flutter y en frontend con Vue.js.
 
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
