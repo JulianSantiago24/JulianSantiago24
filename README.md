@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola, mi nombre es Julian Jaramillo 👋
+
+### Mobile Dev (Flutter) || Frontend Dev (Vue.js)
+
+Soy ingeniero electrónico, especialista en Gerencia y negocios digitales. Actualmente me encuentro trabajando en desarrollo de software en una consultora multinacional que me ha permitido desarrollar mi perfil profesional en esta área de mobile con flutter y en frontend con Vue.js.
+
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 
 <!--
 **JulianSantiago24/JulianSantiago24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
