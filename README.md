@@ -7,7 +7,7 @@ Soy ingeniero electrónico, especialista en Gerencia y negocios digitales. Actua
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
-[![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)]()
+[![React](https://https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)]()
 
 <!--
 **JulianSantiago24/JulianSantiago24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
