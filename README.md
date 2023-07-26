@@ -2,7 +2,7 @@
 
 ### Mobile & Frontend
 
-Soy ingeniero electrónico, especialista en Gerencia y negocios digitales. Actualmente me encuentro trabajando en desarrollo de software en una consultora multinacional que me ha permitido desarrollar mi perfil profesional en esta industria.
+Soy ingeniero electrónico, especialista en Gerencia y negocios digitales. Actualmente me encuentro trabajando en desarrollo de software en Accenture. He trabajado con diferentes Librerias/Frameworks, pero Flutter es el que en ambientes profesionales y personales más me gusta trabajar.
 
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
